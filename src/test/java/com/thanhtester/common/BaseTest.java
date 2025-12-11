@@ -58,8 +58,8 @@ public class BaseTest {
         options.setPlatformVersion("15");
         options.setAutomationName("UiAutomator2");
         options.setDeviceName("Pixel_9_Pro_XL_API_35");
-        options.setAppPackage("com.anhtester.mobile_app.taurus");
-        options.setAppActivity("com.anhtester.mobile_app.taurus.MainActivity");
+        options.setAppPackage("com.saucelabs.mydemoapp.android");
+        options.setAppActivity("com.saucelabs.mydemoapp.android.view.activities.SplashActivity");
         options.setNoReset(false);
         options.setFullReset(false);
 
