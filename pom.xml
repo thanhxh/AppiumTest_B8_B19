@@ -28,6 +28,14 @@
             <artifactId>java-client</artifactId>
             <version>10.0.0</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/io.github.ashwithpoojary98/appium_flutterfinder_java -->
+        <dependency>
+            <groupId>io.github.ashwithpoojary98</groupId>
+            <artifactId>appium_flutterfinder_java</artifactId>
+            <version>1.0.10</version>
+        </dependency>
+
     </dependencies>
 
 </project>
